@@ -1,0 +1,30 @@
+# snapshot taken from a busy VPN gateway (annotated dump, comments tolerated)
+# counters identical to the --demo synthetic host
+XfrmInError           	12
+XfrmInBufferError     	0
+XfrmInHdrError        	3
+XfrmInNoStates        	4217
+XfrmInStateProtoError 	2
+XfrmInStateModeError  	0
+XfrmInStateSeqError   	187
+XfrmInStateExpired    	54
+XfrmInStateMismatch   	9
+XfrmInStateInvalid    	0
+XfrmInTmplMismatch    	6
+XfrmInNoPols          	1340
+XfrmInPolBlock        	7
+XfrmInPolError        	1
+XfrmOutError          	4
+XfrmOutBundleGenError 	2
+XfrmOutBundleCheckError	0
+XfrmOutNoStates       	689
+XfrmOutStateProtoError	1
+XfrmOutStateModeError 	0
+XfrmOutStateSeqError  	0
+XfrmOutStateExpired   	23
+XfrmOutPolBlock       	3
+XfrmOutPolDead        	0
+XfrmOutPolError       	0
+XfrmFwdHdrError       	5
+XfrmOutStateInvalid   	0
+XfrmAcquireError      	16
